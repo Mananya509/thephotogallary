@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    color:pink;
+    font-size:30px;
+}
+section{
+    background-color: pink;
+    color:aqua;
+}
+.menu{
+    font-size: 30px;
+}
+
